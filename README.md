@@ -1,2 +1,0 @@
-# loop
-coding in loop
